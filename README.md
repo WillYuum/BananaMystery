@@ -1,3 +1,10 @@
+# Banana Mystery
+
+Inspirted from a board game `Povesti Intunecate` which has around 50 stories and events and the game was to discover the mystery of the story and event by asking the right questions and be responded with Yes & No by the game Master.
+
+This project will be an app where you can use AI to generate a story of your own liking and have unlimited amount of stories and events to discover.
+
+
 ## Usage
 
 ```bash
